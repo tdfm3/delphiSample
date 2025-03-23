@@ -22,6 +22,8 @@ begin
       end;
       Write(IntToStr(context.Algorithm) + ' ');
     end;
+
+    WriteLn(#10 + 'end.');
   finally
     context.Free;
   end;

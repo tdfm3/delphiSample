@@ -70,5 +70,9 @@ modules/
 bin/
 dcp/
 dcu/
+.vscode/
+GPATH
+GRTAGS
+GTAGS
 
 # End of https://www.toptal.com/developers/gitignore/api/delphi
