@@ -1,5 +1,5 @@
-# delphiSample
+ï»¿# delphiSample
 
-### –Ú“I
-GitHub Copilot‚Ì“®ìŠm”FA—˜—p•p“x‚Ì’á‚¢Œ¾Œê‚Í‚Ç‚¤‚È‚éH  
+### ç›®çš„
+GitHub Copilotã®å‹•ä½œç¢ºèªã€åˆ©ç”¨é »åº¦ã®ä½ã„è¨€èªã¯ã©ã†ãªã‚‹ï¼Ÿ  
 https://survey.stackoverflow.co/2023/#technology-most-popular-technologies
